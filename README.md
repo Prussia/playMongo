@@ -40,5 +40,7 @@
 
         db.getUsers();
         ```
-more information: https://docs.mongodb.com/manual/reference/security/#read
-                  https://docs.mongodb.com/manual/tutorial/enable-authentication/
+### more information
+
+https://docs.mongodb.com/manual/reference/security/#read
+https://docs.mongodb.com/manual/tutorial/enable-authentication/
