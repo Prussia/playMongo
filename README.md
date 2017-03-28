@@ -1,6 +1,6 @@
 # playMongo
 
-## Mongodb user management:
+## Mongodb user management
 
 ### roles list
 
